@@ -61,7 +61,10 @@ Interested in working on:
 
 ## ⚙️ Tech Stack
 
-(Vue, Nuxt, TypeScript, JavaScript, Laravel, APIs, etc...)
+- Vue / Nuxt  
+- TypeScript / JavaScript  
+- API Integration  
+- Laravel (backend integration)
 
 ---
 
